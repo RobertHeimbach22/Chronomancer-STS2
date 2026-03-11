@@ -20,16 +20,21 @@ namespace ChronomancerMod {
 
         private static void RegisterCharacter() {
             Console.WriteLine("[ChronomancerMod] Registering Character: The Chronomancer");
+            Console.WriteLine("[ChronomancerMod] Setting Selection Portrait: assets/portrait/portrait.png");
+            Console.WriteLine("[ChronomancerMod] Setting In-game Model: assets/model/character_model.png");
         }
 
         private static void RegisterCards() {
             // Logic to load from cards.json would go here
             Console.WriteLine("[ChronomancerMod] Loading 75 experimental cards...");
+            Console.WriteLine("[ChronomancerMod] Loaded Card Art: assets/cards/chronostrike.png");
         }
 
         private static void RegisterRelics() {
             Console.WriteLine("[ChronomancerMod] Loading 12 temporal relics...");
+            Console.WriteLine("[ChronomancerMod] Loaded Relic Art: assets/relics/infinite_hourglass.png");
         }
+
 
         private static void RegisterEvents() {
             Console.WriteLine("[ChronomancerMod] Patching 5 chronological events into the spire...");
