@@ -1,0 +1,11 @@
+/home/robert/.gemini/antigravity/scratch/ChronomancerMod/bin/Debug/net8.0/ChronomancerMod.deps.json
+/home/robert/.gemini/antigravity/scratch/ChronomancerMod/bin/Debug/net8.0/ChronomancerMod.dll
+/home/robert/.gemini/antigravity/scratch/ChronomancerMod/bin/Debug/net8.0/ChronomancerMod.pdb
+/home/robert/.gemini/antigravity/scratch/ChronomancerMod/obj/Debug/net8.0/ChronomancerMod.GeneratedMSBuildEditorConfig.editorconfig
+/home/robert/.gemini/antigravity/scratch/ChronomancerMod/obj/Debug/net8.0/ChronomancerMod.AssemblyInfoInputs.cache
+/home/robert/.gemini/antigravity/scratch/ChronomancerMod/obj/Debug/net8.0/ChronomancerMod.AssemblyInfo.cs
+/home/robert/.gemini/antigravity/scratch/ChronomancerMod/obj/Debug/net8.0/ChronomancerMod.csproj.CoreCompileInputs.cache
+/home/robert/.gemini/antigravity/scratch/ChronomancerMod/obj/Debug/net8.0/ChronomancerMod.dll
+/home/robert/.gemini/antigravity/scratch/ChronomancerMod/obj/Debug/net8.0/refint/ChronomancerMod.dll
+/home/robert/.gemini/antigravity/scratch/ChronomancerMod/obj/Debug/net8.0/ChronomancerMod.pdb
+/home/robert/.gemini/antigravity/scratch/ChronomancerMod/obj/Debug/net8.0/ref/ChronomancerMod.dll

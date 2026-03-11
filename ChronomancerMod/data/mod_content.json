@@ -1,0 +1,954 @@
+{
+  "cards": [
+    {
+      "id": "ChronoC_1",
+      "name": "Common Attack 1",
+      "type": "Attack",
+      "rarity": "Common",
+      "cost": 1,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Basic"
+      ]
+    },
+    {
+      "id": "ChronoC_2",
+      "name": "Common Attack 2",
+      "type": "Attack",
+      "rarity": "Common",
+      "cost": 1,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Basic"
+      ]
+    },
+    {
+      "id": "ChronoC_3",
+      "name": "Common Skill 3",
+      "type": "Skill",
+      "rarity": "Common",
+      "cost": 0,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Echo"
+      ]
+    },
+    {
+      "id": "ChronoC_4",
+      "name": "Common Attack 4",
+      "type": "Attack",
+      "rarity": "Common",
+      "cost": 0,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Basic"
+      ]
+    },
+    {
+      "id": "ChronoC_5",
+      "name": "Common Skill 5",
+      "type": "Skill",
+      "rarity": "Common",
+      "cost": 0,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Basic"
+      ]
+    },
+    {
+      "id": "ChronoC_6",
+      "name": "Common Attack 6",
+      "type": "Attack",
+      "rarity": "Common",
+      "cost": 0,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Echo"
+      ]
+    },
+    {
+      "id": "ChronoC_7",
+      "name": "Common Skill 7",
+      "type": "Skill",
+      "rarity": "Common",
+      "cost": 0,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Basic"
+      ]
+    },
+    {
+      "id": "ChronoC_8",
+      "name": "Common Attack 8",
+      "type": "Attack",
+      "rarity": "Common",
+      "cost": 1,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Basic"
+      ]
+    },
+    {
+      "id": "ChronoC_9",
+      "name": "Common Skill 9",
+      "type": "Skill",
+      "rarity": "Common",
+      "cost": 1,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Echo"
+      ]
+    },
+    {
+      "id": "ChronoC_10",
+      "name": "Common Skill 10",
+      "type": "Skill",
+      "rarity": "Common",
+      "cost": 0,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Basic"
+      ]
+    },
+    {
+      "id": "ChronoC_11",
+      "name": "Common Attack 11",
+      "type": "Attack",
+      "rarity": "Common",
+      "cost": 1,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Basic"
+      ]
+    },
+    {
+      "id": "ChronoC_12",
+      "name": "Common Attack 12",
+      "type": "Attack",
+      "rarity": "Common",
+      "cost": 1,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Echo"
+      ]
+    },
+    {
+      "id": "ChronoC_13",
+      "name": "Common Attack 13",
+      "type": "Attack",
+      "rarity": "Common",
+      "cost": 1,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Basic"
+      ]
+    },
+    {
+      "id": "ChronoC_14",
+      "name": "Common Attack 14",
+      "type": "Attack",
+      "rarity": "Common",
+      "cost": 0,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Basic"
+      ]
+    },
+    {
+      "id": "ChronoC_15",
+      "name": "Common Attack 15",
+      "type": "Attack",
+      "rarity": "Common",
+      "cost": 1,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Echo"
+      ]
+    },
+    {
+      "id": "ChronoC_16",
+      "name": "Common Skill 16",
+      "type": "Skill",
+      "rarity": "Common",
+      "cost": 1,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Basic"
+      ]
+    },
+    {
+      "id": "ChronoC_17",
+      "name": "Common Skill 17",
+      "type": "Skill",
+      "rarity": "Common",
+      "cost": 0,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Basic"
+      ]
+    },
+    {
+      "id": "ChronoC_18",
+      "name": "Common Attack 18",
+      "type": "Attack",
+      "rarity": "Common",
+      "cost": 0,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Echo"
+      ]
+    },
+    {
+      "id": "ChronoC_19",
+      "name": "Common Skill 19",
+      "type": "Skill",
+      "rarity": "Common",
+      "cost": 1,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Basic"
+      ]
+    },
+    {
+      "id": "ChronoC_20",
+      "name": "Common Skill 20",
+      "type": "Skill",
+      "rarity": "Common",
+      "cost": 0,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Basic"
+      ]
+    },
+    {
+      "id": "ChronoC_21",
+      "name": "Common Attack 21",
+      "type": "Attack",
+      "rarity": "Common",
+      "cost": 0,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Echo"
+      ]
+    },
+    {
+      "id": "ChronoC_22",
+      "name": "Common Attack 22",
+      "type": "Attack",
+      "rarity": "Common",
+      "cost": 1,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Basic"
+      ]
+    },
+    {
+      "id": "ChronoC_23",
+      "name": "Common Skill 23",
+      "type": "Skill",
+      "rarity": "Common",
+      "cost": 1,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Basic"
+      ]
+    },
+    {
+      "id": "ChronoC_24",
+      "name": "Common Attack 24",
+      "type": "Attack",
+      "rarity": "Common",
+      "cost": 0,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Echo"
+      ]
+    },
+    {
+      "id": "ChronoC_25",
+      "name": "Common Skill 25",
+      "type": "Skill",
+      "rarity": "Common",
+      "cost": 0,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Basic"
+      ]
+    },
+    {
+      "id": "ChronoC_26",
+      "name": "Common Attack 26",
+      "type": "Attack",
+      "rarity": "Common",
+      "cost": 1,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Basic"
+      ]
+    },
+    {
+      "id": "ChronoC_27",
+      "name": "Common Skill 27",
+      "type": "Skill",
+      "rarity": "Common",
+      "cost": 1,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Echo"
+      ]
+    },
+    {
+      "id": "ChronoC_28",
+      "name": "Common Attack 28",
+      "type": "Attack",
+      "rarity": "Common",
+      "cost": 0,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Basic"
+      ]
+    },
+    {
+      "id": "ChronoC_29",
+      "name": "Common Skill 29",
+      "type": "Skill",
+      "rarity": "Common",
+      "cost": 0,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Basic"
+      ]
+    },
+    {
+      "id": "ChronoC_30",
+      "name": "Common Attack 30",
+      "type": "Attack",
+      "rarity": "Common",
+      "cost": 0,
+      "description": "Standard time-tech effect.",
+      "mechanics": [
+        "Echo"
+      ]
+    },
+    {
+      "id": "ChronoU_1",
+      "name": "Uncommon Power 1",
+      "type": "Power",
+      "rarity": "Uncommon",
+      "cost": 1,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Lag"
+      ]
+    },
+    {
+      "id": "ChronoU_2",
+      "name": "Uncommon Power 2",
+      "type": "Power",
+      "rarity": "Uncommon",
+      "cost": 1,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Rewind"
+      ]
+    },
+    {
+      "id": "ChronoU_3",
+      "name": "Uncommon Skill 3",
+      "type": "Skill",
+      "rarity": "Uncommon",
+      "cost": 2,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Lag"
+      ]
+    },
+    {
+      "id": "ChronoU_4",
+      "name": "Uncommon Skill 4",
+      "type": "Skill",
+      "rarity": "Uncommon",
+      "cost": 2,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Rewind"
+      ]
+    },
+    {
+      "id": "ChronoU_5",
+      "name": "Uncommon Attack 5",
+      "type": "Attack",
+      "rarity": "Uncommon",
+      "cost": 1,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Lag"
+      ]
+    },
+    {
+      "id": "ChronoU_6",
+      "name": "Uncommon Skill 6",
+      "type": "Skill",
+      "rarity": "Uncommon",
+      "cost": 1,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Rewind"
+      ]
+    },
+    {
+      "id": "ChronoU_7",
+      "name": "Uncommon Skill 7",
+      "type": "Skill",
+      "rarity": "Uncommon",
+      "cost": 1,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Lag"
+      ]
+    },
+    {
+      "id": "ChronoU_8",
+      "name": "Uncommon Attack 8",
+      "type": "Attack",
+      "rarity": "Uncommon",
+      "cost": 1,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Rewind"
+      ]
+    },
+    {
+      "id": "ChronoU_9",
+      "name": "Uncommon Attack 9",
+      "type": "Attack",
+      "rarity": "Uncommon",
+      "cost": 2,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Lag"
+      ]
+    },
+    {
+      "id": "ChronoU_10",
+      "name": "Uncommon Skill 10",
+      "type": "Skill",
+      "rarity": "Uncommon",
+      "cost": 2,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Rewind"
+      ]
+    },
+    {
+      "id": "ChronoU_11",
+      "name": "Uncommon Power 11",
+      "type": "Power",
+      "rarity": "Uncommon",
+      "cost": 2,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Lag"
+      ]
+    },
+    {
+      "id": "ChronoU_12",
+      "name": "Uncommon Power 12",
+      "type": "Power",
+      "rarity": "Uncommon",
+      "cost": 2,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Rewind"
+      ]
+    },
+    {
+      "id": "ChronoU_13",
+      "name": "Uncommon Attack 13",
+      "type": "Attack",
+      "rarity": "Uncommon",
+      "cost": 2,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Lag"
+      ]
+    },
+    {
+      "id": "ChronoU_14",
+      "name": "Uncommon Skill 14",
+      "type": "Skill",
+      "rarity": "Uncommon",
+      "cost": 2,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Rewind"
+      ]
+    },
+    {
+      "id": "ChronoU_15",
+      "name": "Uncommon Attack 15",
+      "type": "Attack",
+      "rarity": "Uncommon",
+      "cost": 2,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Lag"
+      ]
+    },
+    {
+      "id": "ChronoU_16",
+      "name": "Uncommon Power 16",
+      "type": "Power",
+      "rarity": "Uncommon",
+      "cost": 2,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Rewind"
+      ]
+    },
+    {
+      "id": "ChronoU_17",
+      "name": "Uncommon Skill 17",
+      "type": "Skill",
+      "rarity": "Uncommon",
+      "cost": 2,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Lag"
+      ]
+    },
+    {
+      "id": "ChronoU_18",
+      "name": "Uncommon Skill 18",
+      "type": "Skill",
+      "rarity": "Uncommon",
+      "cost": 1,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Rewind"
+      ]
+    },
+    {
+      "id": "ChronoU_19",
+      "name": "Uncommon Attack 19",
+      "type": "Attack",
+      "rarity": "Uncommon",
+      "cost": 1,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Lag"
+      ]
+    },
+    {
+      "id": "ChronoU_20",
+      "name": "Uncommon Power 20",
+      "type": "Power",
+      "rarity": "Uncommon",
+      "cost": 2,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Rewind"
+      ]
+    },
+    {
+      "id": "ChronoU_21",
+      "name": "Uncommon Power 21",
+      "type": "Power",
+      "rarity": "Uncommon",
+      "cost": 2,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Lag"
+      ]
+    },
+    {
+      "id": "ChronoU_22",
+      "name": "Uncommon Attack 22",
+      "type": "Attack",
+      "rarity": "Uncommon",
+      "cost": 1,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Rewind"
+      ]
+    },
+    {
+      "id": "ChronoU_23",
+      "name": "Uncommon Skill 23",
+      "type": "Skill",
+      "rarity": "Uncommon",
+      "cost": 1,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Lag"
+      ]
+    },
+    {
+      "id": "ChronoU_24",
+      "name": "Uncommon Skill 24",
+      "type": "Skill",
+      "rarity": "Uncommon",
+      "cost": 1,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Rewind"
+      ]
+    },
+    {
+      "id": "ChronoU_25",
+      "name": "Uncommon Attack 25",
+      "type": "Attack",
+      "rarity": "Uncommon",
+      "cost": 2,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Lag"
+      ]
+    },
+    {
+      "id": "ChronoU_26",
+      "name": "Uncommon Attack 26",
+      "type": "Attack",
+      "rarity": "Uncommon",
+      "cost": 1,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Rewind"
+      ]
+    },
+    {
+      "id": "ChronoU_27",
+      "name": "Uncommon Attack 27",
+      "type": "Attack",
+      "rarity": "Uncommon",
+      "cost": 1,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Lag"
+      ]
+    },
+    {
+      "id": "ChronoU_28",
+      "name": "Uncommon Skill 28",
+      "type": "Skill",
+      "rarity": "Uncommon",
+      "cost": 2,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Rewind"
+      ]
+    },
+    {
+      "id": "ChronoU_29",
+      "name": "Uncommon Power 29",
+      "type": "Power",
+      "rarity": "Uncommon",
+      "cost": 2,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Lag"
+      ]
+    },
+    {
+      "id": "ChronoU_30",
+      "name": "Uncommon Attack 30",
+      "type": "Attack",
+      "rarity": "Uncommon",
+      "cost": 2,
+      "description": "Advanced temporal manipulation.",
+      "mechanics": [
+        "Rewind"
+      ]
+    },
+    {
+      "id": "ChronoR_1",
+      "name": "Rare Power 1",
+      "type": "Power",
+      "rarity": "Rare",
+      "cost": 2,
+      "description": "High-tier chronological mastery.",
+      "mechanics": [
+        "Entropy",
+        "Paradox"
+      ]
+    },
+    {
+      "id": "ChronoR_2",
+      "name": "Rare Attack 2",
+      "type": "Attack",
+      "rarity": "Rare",
+      "cost": 4,
+      "description": "High-tier chronological mastery.",
+      "mechanics": [
+        "Entropy",
+        "Paradox"
+      ]
+    },
+    {
+      "id": "ChronoR_3",
+      "name": "Rare Attack 3",
+      "type": "Attack",
+      "rarity": "Rare",
+      "cost": 2,
+      "description": "High-tier chronological mastery.",
+      "mechanics": [
+        "Entropy",
+        "Paradox"
+      ]
+    },
+    {
+      "id": "ChronoR_4",
+      "name": "Rare Attack 4",
+      "type": "Attack",
+      "rarity": "Rare",
+      "cost": 2,
+      "description": "High-tier chronological mastery.",
+      "mechanics": [
+        "Entropy",
+        "Paradox"
+      ]
+    },
+    {
+      "id": "ChronoR_5",
+      "name": "Rare Attack 5",
+      "type": "Attack",
+      "rarity": "Rare",
+      "cost": 2,
+      "description": "High-tier chronological mastery.",
+      "mechanics": [
+        "Entropy",
+        "Paradox"
+      ]
+    },
+    {
+      "id": "ChronoR_6",
+      "name": "Rare Power 6",
+      "type": "Power",
+      "rarity": "Rare",
+      "cost": 3,
+      "description": "High-tier chronological mastery.",
+      "mechanics": [
+        "Entropy",
+        "Paradox"
+      ]
+    },
+    {
+      "id": "ChronoR_7",
+      "name": "Rare Power 7",
+      "type": "Power",
+      "rarity": "Rare",
+      "cost": 4,
+      "description": "High-tier chronological mastery.",
+      "mechanics": [
+        "Entropy",
+        "Paradox"
+      ]
+    },
+    {
+      "id": "ChronoR_8",
+      "name": "Rare Power 8",
+      "type": "Power",
+      "rarity": "Rare",
+      "cost": 4,
+      "description": "High-tier chronological mastery.",
+      "mechanics": [
+        "Entropy",
+        "Paradox"
+      ]
+    },
+    {
+      "id": "ChronoR_9",
+      "name": "Rare Skill 9",
+      "type": "Skill",
+      "rarity": "Rare",
+      "cost": 3,
+      "description": "High-tier chronological mastery.",
+      "mechanics": [
+        "Entropy",
+        "Paradox"
+      ]
+    },
+    {
+      "id": "ChronoR_10",
+      "name": "Rare Attack 10",
+      "type": "Attack",
+      "rarity": "Rare",
+      "cost": 3,
+      "description": "High-tier chronological mastery.",
+      "mechanics": [
+        "Entropy",
+        "Paradox"
+      ]
+    },
+    {
+      "id": "ChronoR_11",
+      "name": "Rare Power 11",
+      "type": "Power",
+      "rarity": "Rare",
+      "cost": 2,
+      "description": "High-tier chronological mastery.",
+      "mechanics": [
+        "Entropy",
+        "Paradox"
+      ]
+    },
+    {
+      "id": "ChronoR_12",
+      "name": "Rare Power 12",
+      "type": "Power",
+      "rarity": "Rare",
+      "cost": 2,
+      "description": "High-tier chronological mastery.",
+      "mechanics": [
+        "Entropy",
+        "Paradox"
+      ]
+    },
+    {
+      "id": "ChronoR_13",
+      "name": "Rare Skill 13",
+      "type": "Skill",
+      "rarity": "Rare",
+      "cost": 2,
+      "description": "High-tier chronological mastery.",
+      "mechanics": [
+        "Entropy",
+        "Paradox"
+      ]
+    },
+    {
+      "id": "ChronoR_14",
+      "name": "Rare Skill 14",
+      "type": "Skill",
+      "rarity": "Rare",
+      "cost": 3,
+      "description": "High-tier chronological mastery.",
+      "mechanics": [
+        "Entropy",
+        "Paradox"
+      ]
+    },
+    {
+      "id": "ChronoR_15",
+      "name": "Rare Power 15",
+      "type": "Power",
+      "rarity": "Rare",
+      "cost": 4,
+      "description": "High-tier chronological mastery.",
+      "mechanics": [
+        "Entropy",
+        "Paradox"
+      ]
+    }
+  ],
+  "relics": [
+    {
+      "id": "Relic1",
+      "name": "Broken Pocketwatch",
+      "rank": "Starter",
+      "description": "Start combat with 1 Rewind card."
+    },
+    {
+      "id": "Relic2",
+      "name": "Infinite Hourglass",
+      "rank": "Common",
+      "description": "Every 3rd turn, gain 1 Energy and draw 2 cards."
+    },
+    {
+      "id": "Relic3",
+      "name": "Sand of Time",
+      "rank": "Common",
+      "description": "Gain 3 Block when using Rewind."
+    },
+    {
+      "id": "Relic4",
+      "name": "Rusty Cog",
+      "rank": "Uncommon",
+      "description": "Enemies lose 2 Strength when Lagged."
+    },
+    {
+      "id": "Relic5",
+      "name": "Chrono-Lens",
+      "rank": "Uncommon",
+      "description": "See top 3 cards of draw pile."
+    },
+    {
+      "id": "Relic6",
+      "name": "Entropic Core",
+      "rank": "Rare",
+      "description": "Gain Entropy when playing Rare cards."
+    },
+    {
+      "id": "Relic7",
+      "name": "Silver Dial",
+      "rank": "Rare",
+      "description": "Every 4th Echo triggers an extra time."
+    },
+    {
+      "id": "Relic8",
+      "name": "Momentum Pendulum",
+      "rank": "Rare",
+      "description": "Strength on returned cards."
+    },
+    {
+      "id": "Relic9",
+      "name": "Dust of Eternity",
+      "rank": "Shop",
+      "description": "Lag lasts 1 more turn."
+    },
+    {
+      "id": "Relic10",
+      "name": "Fractured Crystal",
+      "rank": "Boss",
+      "description": "First card each turn becomes Echo."
+    },
+    {
+      "id": "Relic11",
+      "name": "Void Siphon",
+      "rank": "Boss",
+      "description": "Keep discard cards after elites."
+    },
+    {
+      "id": "Relic12",
+      "name": "The Final Second",
+      "rank": "Boss",
+      "description": "Heal 10 and run away from death once."
+    }
+  ],
+  "events": [
+    {
+      "name": "The Time Rift",
+      "options": [
+        "Swap Card",
+        "Swap Relic"
+      ]
+    },
+    {
+      "name": "The Ancient Clocksmith",
+      "options": [
+        "Repair Relic",
+        "Upgrade x2"
+      ]
+    },
+    {
+      "name": "Entropy Leak",
+      "options": [
+        "Lose HP for Power",
+        "Leave"
+      ]
+    },
+    {
+      "name": "Paradox",
+      "options": [
+        "Cursed Buff",
+        "Nothing"
+      ]
+    },
+    {
+      "name": "The Rewind Pool",
+      "options": [
+        "Pay Gold to Rewind Floor"
+      ]
+    }
+  ]
+}
