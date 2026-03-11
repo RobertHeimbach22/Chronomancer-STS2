@@ -1,0 +1,8 @@
+{
+  "pck_name": "ChronomancerMod.pck",
+  "name": "The Chronomancer",
+  "author": "Antigravity",
+  "version": "1.0.0",
+  "description": "Adds a new playable character themed around time manipulation with 75 cards, 12 relics, and 5 events.",
+  "dependencies": []
+}
