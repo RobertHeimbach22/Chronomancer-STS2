@@ -1,0 +1,109 @@
+I'll gather publicly available data on **bareremedy.net** using web research tools right now.
+
+Read URL: https://bareremedy.net
+Searched web: "bareremedy.net traffic stats visitors revenue"
+Searched web: "site:bareremedy.net"
+Searched web: "bareremedy.net similarweb semrush traffic analysis"
+Read URL: https://www.similarweb.com/website/bareremedy.net/
+Read URL: https://www.semrush.com/website/bareremedy.net/overview/
+Read URL: https://ahrefs.com/website-authority-checker/?target=bareremedy.net
+Searched web: ""bareremedy.net" OR "bareremedy" mushroom wellness ecommerce"
+Read URL: https://freedomnationpodcast.com
+Searched web: "bareremedy Benjamin Bressington sales revenue mushroom products"
+Read URL: https://web.archive.org/web/2025*/bareremedy.net
+Searched web: "bareremedy.net domain age whois creation date"
+Read URL: https://lookup.icann.org/lookup?name=bareremedy.net
+Read URL: https://www.ubersuggest.com/traffic-analyzer/overview?d=bareremedy.net
+Read URL: https://who.is/whois/bareremedy.net
+Read URL: https://www.alexa.com/siteinfo/bareremedy.net
+Searched web: "bareremedy.net organic keywords SEO ranking pages"
+Read URL: https://app.bareremedy.net
+Searched web: "bareremedy.net social media facebook instagram followers"
+
+I've gathered enough data to put together a comprehensive report. Let me compile everything now.
+
+Here's the **BareRemedy.net Domain & Business Report** based on all publicly available information:
+
+---
+
+## 🍄 BareRemedy.net — Research Report
+*As of March 18, 2026*
+
+---
+
+### 🏢 Business Overview
+
+| Field | Details |
+|---|---|
+| **Brand** | BareRemedy (BareRemedy LLC) |
+| **Founder** | Benjamin Bressington ("The Mushroom Guy") |
+| **Niche** | Functional mushroom wellness products |
+| **Products** | Tinctures, adaptogenic gummies (100% non-psychedelic; no psilocybin) |
+| **Differentiator** | Ancient *spagyric extraction* method; "no fillers, no synthetics" |
+| **Platform** | React SPA + Supabase backend (PWA-capable) |
+| **Registrar** | Namecheap |
+| **DNS/CDN** | Cloudflare (nameservers: `candy.ns.cloudflare.com`, `kianchau.ns.cloudflare.com`) |
+| **IP** | 216.150.1.1 |
+
+---
+
+### 🌐 Website & Technical Profile
+
+- **Primary URL:** `https://bareremedy.net` → app served at `https://app.bareremedy.net`
+- **Tech Stack:** React (Vite-bundled SPA), Supabase (auth/storage), Cloudflare CDN
+- **PWA:** Yes — mobile installable
+- **Tracking:** Facebook Meta Pixel ID `936431531643171` (fires `Purchase` events, PageViews) — this confirms they are running **Facebook/Instagram ad campaigns** and measuring conversions
+- **OG Description:** *"Shop premium mushroom-based wellness products from BareRemedy"*
+- **Domain Status:** `clientTransferProhibited` — domain is actively protected
+
+---
+
+### 📊 Traffic Estimate
+
+> ⚠️ **Important caveat:** BareRemedy.net is a **small/emerging brand**. SimilarWeb, SEMrush, and Ahrefs do **not publish estimates** for sites with fewer than ~50K–100K monthly visits — the site falls below their reporting thresholds. No public traffic numbers are available.
+
+**What we can infer:**
+- The site uses a **Facebook Pixel** for purchase tracking, indicating paid social traffic is a primary channel
+- Founder Benjamin Bressington has a background in **AI automation and e-commerce** — the site is technically well-built
+- The brand has appeared on **podcasts** (Freedom Nation Podcast, Captivate.fm network) — audio/podcast marketing is in use
+- No significant **organic SEO footprint** was found — the domain appears to rely heavily on **paid or direct/referral traffic**
+- The Wayback Machine does not yet have substantial archive history for the domain — suggests it is **relatively new** (likely registered within the last 1–3 years)
+
+---
+
+### 💰 Sales / Revenue Data
+
+**No public sales or revenue data is available.** This is a private LLC and does not file public financial disclosures. However, here's what we know:
+
+- Founder's **stated goal**: build a **$100M company** in the functional mushroom space
+- Supply chain vision: 100,000 lbs/month via a farmer co-op model (farmers use BareRemedy grow systems, sell half locally, BareRemedy buys back the rest)
+- The functional mushroom market is **rapidly growing** — multiple market research firms project double-digit CAGR through 2030
+- The Meta Pixel `Purchase` event is hardcoded into the HTML (not just via GTM), suggesting **active transactional volume** — they care enough about conversion tracking to prioritize it at the page-load level
+
+---
+
+### 📣 Marketing Channels (Observed)
+
+| Channel | Evidence |
+|---|---|
+| **Facebook/Instagram Ads** | Meta Pixel hardcoded in HTML |
+| **Podcast appearances** | Freedom Nation Podcast, Captivate/Libsyn network |
+| **YouTube** | Founder interviews found via search |
+| **Content marketing** | Positioned as authority ("The Mushroom Guy") |
+| **Organic SEO** | Little to no footprint currently |
+
+---
+
+### 🔑 Key Takeaways
+
+1. **BareRemedy is an early-stage DTC wellness brand** — technically sophisticated but still building its traffic and SEO presence.
+2. **Paid social (Meta) is the primary acquisition channel** — the hardcoded Facebook Pixel for purchase events is a strong signal.
+3. **No public traffic or revenue figures exist** — the site is below the threshold where third-party tools (SimilarWeb, SEMrush, Ahrefs) publish estimates.
+4. **The founder has serious ambitions** ($100M target, co-op supply chain model) and a background in e-commerce and AI automation.
+5. **SEO opportunity is essentially untouched** — there's a significant gap to exploit if they invest in organic content.
+
+---
+
+> 💡 **If you need actual internal traffic/sales data** (i.e., Google Analytics, Shopify dashboard, Meta Ads Manager figures), that would require direct access to BareRemedy's own accounts — it cannot be obtained from public sources.
+
+Is there a specific angle you'd like me to dig deeper on — competitors, the functional mushroom market, ad strategy analysis, or something else?
